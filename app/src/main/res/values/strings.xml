@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Song Database</string>
+    <string name="tvSongTitle">Song Title</string>
+    <string name="etSongTitle">Enter song title here</string>
+    <string name="tvSingers">Singers</string>
+    <string name="etSingers">Enter singer name here</string>
+    <string name="tvYear">Year</string>
+    <string name="etYear">Enter year of release here</string>
+    <string name="tvStars">Stars</string>
+    <string name="insertButton">INSERT</string>
+    <string name="showListButton">SHOW LIST</string>
+
+</resources>
